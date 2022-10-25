@@ -1,0 +1,79 @@
+body{
+    background-color: bisque;
+}
+.timer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:40px;
+}
+.title{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 150px;
+    line-height: 143px;
+    color: brown;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hour{
+    width: 200px;
+    height: 30px;
+    border: 2px solid brown;
+    border-radius: 10px;
+
+}
+.minute{
+    width: 200px;
+    height: 30px;
+    border: 2px solid brown;
+    border-radius: 10px;
+}
+.secund{
+    width: 200px;
+    height: 30px;
+    border: 2px solid brown;
+    border-radius: 10px;
+
+}
+.btn{
+    background-color: brown;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px double wheat;
+    color: wheat;
+}
+::placeholder{
+    color: brown;
+    
+}
+.soat{
+    font-family: 'alarm clock', sans-serif;
+    font-size: 100px;
+    color: brown;
+}
+p{
+    font-family: 'alarm clock', sans-serif;
+    font-size: 60px;
+    color: brown; 
+}
+.daqiqa{
+    font-family: 'alarm clock', sans-serif;
+    font-size: 100px;
+    color: brown;
+}
+.soniya{
+    font-family: 'alarm clock', sans-serif;
+    font-size: 100px;
+    color: brown;
+}
